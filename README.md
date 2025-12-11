@@ -60,5 +60,5 @@ Predicted Label: Virginica
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-##Author
+## Author
 Developed by [tjwndndjs](https://github.com/tjwnddnjs)
